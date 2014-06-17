@@ -1,0 +1,8 @@
+name: shadowdom_teacher
+version: 0.0.1
+author: Name It Later
+description: Teach bootstrap, flat_ui, and font-awesome to use shadowdom.
+homepage: www.github.com/nameitlater/shadowdom-teacher
+dependencies:
+  args: any
+  csslib: any
